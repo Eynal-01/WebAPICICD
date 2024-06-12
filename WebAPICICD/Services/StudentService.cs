@@ -50,7 +50,7 @@ namespace WebAPICICD.Services
             if (item != null)
             {
                 item.Score = student.Score;
-                item.FullName = student.FullName;   
+                item.FullName = student.FullName;
             }
         }
     }

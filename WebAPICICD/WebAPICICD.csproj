@@ -6,4 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\Eynal\source\repos\WebAPICICD\WebAPICICD\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Eynal\source\repos\WebAPICICD\WebAPICICD\.editorconfig" />
+  </ItemGroup>
+
 </Project>

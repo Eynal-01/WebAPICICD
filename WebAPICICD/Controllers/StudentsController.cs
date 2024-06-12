@@ -58,7 +58,7 @@ namespace WebAPICICD.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-            _studentService.Delete(id); 
+            _studentService.Delete(id);
         }
     }
 }
