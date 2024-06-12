@@ -1,0 +1,6 @@
+version: 1
+
+steps:
+  - task: dotnet-format@1
+    inputs:
+      configPath: '.editorconfig'
